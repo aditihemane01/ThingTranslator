@@ -1,0 +1,5 @@
+rootProject.name = "ThingTranslator"
+include ':app'
+include ':lib_interpreter'
+include ':lib_task_api'
+include 'ocrlibrary'

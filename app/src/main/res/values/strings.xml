@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ThingTranslator</string>
+    <string name="API_KEY">trns.1.1.20190513T095513Z.76c821deb486c7c4</string>
+    <string name="start_new_conversation">New Conversation</string>
+    <string name="start_new_translation">Text Translate</string>
+    <string name="camera">Click Picture</string>
+    <string name="new_conversation">Conversation</string>
+    <string name="new_translate">Translate</string>
+    <string name="hint_text">Tap to enter text</string>
+    <string name="no_internet_connection">No Internet Connection Available</string>
+    <string name="speech_prompt">Speak Now</string>
+    <string name="language_pack_missing">This language speech pack needs to be installed</string>
+    <string name="language_not_supported">This language speech is currently not supported</string>
+    <string name="select_matching_text">Select Matching Text</string>
+    <string name="process_tts">Switching Language</string>
+    <string name="no_text">No Text Available</string>
+    <string name="error_prompt">Detector dependencies are not yet available</string>
+    <string name="photo">Photo</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Thing Translator</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>

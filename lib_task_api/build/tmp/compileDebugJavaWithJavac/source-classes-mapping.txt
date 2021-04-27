@@ -1,0 +1,7 @@
+com/example/thingtranslator/BuildConfig.java
+ com.example.thingtranslator.BuildConfig
+com/example/thingtranslator/Detector.java
+ com.example.thingtranslator.Detector
+ com.example.thingtranslator.Detector$Recognition
+com/example/thingtranslator/TFLiteObjectDetectionAPIModel.java
+ com.example.thingtranslator.TFLiteObjectDetectionAPIModel
