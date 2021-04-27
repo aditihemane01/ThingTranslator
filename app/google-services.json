@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297966223376",
+    "firebase_url": "https://thingtranslator-b08d9.firebaseio.com",
+    "project_id": "thingtranslator-b08d9",
+    "storage_bucket": "thingtranslator-b08d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297966223376:android:4343c14dc7f1c57c4b0a95",
+        "android_client_info": {
+          "package_name": "com.example.thingtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297966223376-6totjkbveb72rg6dmpt9nqrp27oa4idl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlEs-RLKHfDh6HcRAF_kWAO8nFK0bBGok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297966223376-6totjkbveb72rg6dmpt9nqrp27oa4idl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
